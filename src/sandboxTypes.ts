@@ -45,4 +45,5 @@ let anyNinja: {
     hadouken: true
 }
 
-// anyNinja = ['hello', 'hey'] - Throws type error
+// Throws type error
+// anyNinja = ['hello', 'hey'] 
